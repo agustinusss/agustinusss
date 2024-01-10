@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustinus</h1>
-<h3 align="center">Data Scientist & Analyst, Business Analyst, Systems Analysis and Front-end Web Development Enthusiasts | Student at Universitas Multimedia Nusantara</h3>
+<h3 align="center">Data Scientist & Analyst, Business Analyst, Systems Analysis, Quality Assurance and Front-end Web Development Enthusiasts | Student at Universitas Multimedia Nusantara</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinusss&label=Profile%20views&color=0e75b6&style=flat" alt="agustinusss" /> </p>
 
